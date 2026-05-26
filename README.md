@@ -101,7 +101,7 @@ python manage.py runserver
 
 ---
 
-# 🔐 Acesso ao Painel Administrativo
+# Acesso ao Painel Administrativo
 
 Crie um superusuário:
 
