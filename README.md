@@ -26,7 +26,7 @@ Tudo isso através de uma interface intuitiva e fácil de usar, facilitando a ad
 
 ---
 
-# 📋 Funcionalidades
+# Funcionalidades
 
  Cadastro de imóveis  
  Cadastro de inquilinos  
@@ -121,13 +121,13 @@ http://127.0.0.1:8000/admin
 
 ```bash
  sistema-aluguel
- ┣ 📂 app
- ┣ 📂 templates
- ┣ 📂 static
- ┣ 📂 media
- ┣ 📜 manage.py
- ┣ 📜 requirements.txt
- ┗ 📜 README.md
+ ┣  app
+ ┣  templates
+ ┣  static
+ ┣  media
+ ┣  manage.py
+ ┣  requirements.txt
+ ┗  README.md
 ```
 
 ---
