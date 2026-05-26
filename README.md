@@ -1,20 +1,20 @@
-# 🏠 Sistema de Gestão de Aluguéis
+# Sistema de Gestão de Aluguéis
 
 Plataforma web desenvolvida com Python, Django e Bootstrap para tornar a gestão de aluguéis mais simples, organizada e eficiente.
 
 O sistema foi criado para auxiliar no controle de:
 
-- 📌 Imóveis
-- 📄 Contratos
-- 👥 Inquilinos
-- 💰 Pagamentos
-- ⏰ Vencimentos
+-  Imóveis
+-  Contratos
+-  Inquilinos
+-  Pagamentos
+-  Vencimentos
 
 Tudo isso através de uma interface intuitiva e fácil de usar, facilitando a administração completa das locações.
 
 ---
 
-# 🚀 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python
 - Django
@@ -28,18 +28,18 @@ Tudo isso através de uma interface intuitiva e fácil de usar, facilitando a ad
 
 # 📋 Funcionalidades
 
-✅ Cadastro de imóveis  
-✅ Cadastro de inquilinos  
-✅ Gerenciamento de contratos  
-✅ Controle de pagamentos  
-✅ Controle de vencimentos  
-✅ Interface responsiva  
-✅ Painel administrativo  
-✅ Organização centralizada das locações
+ Cadastro de imóveis  
+ Cadastro de inquilinos  
+ Gerenciamento de contratos  
+ Controle de pagamentos  
+ Controle de vencimentos  
+ Interface responsiva  
+ Painel administrativo  
+ Organização centralizada das locações
 
 ---
 
-# 📸 Preview do Sistema
+# Preview do Sistema
 
 ```bash
 Em breve...
@@ -47,7 +47,7 @@ Em breve...
 
 ---
 
-# ⚙️ Instalação
+# Instalação
 
 Clone o repositório:
 
@@ -117,10 +117,10 @@ http://127.0.0.1:8000/admin
 
 ---
 
-# 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```bash
-📦 sistema-aluguel
+ sistema-aluguel
  ┣ 📂 app
  ┣ 📂 templates
  ┣ 📂 static
@@ -132,13 +132,13 @@ http://127.0.0.1:8000/admin
 
 ---
 
-# 🎯 Objetivo do Projeto
+# Objetivo do Projeto
 
 O objetivo deste sistema é facilitar o gerenciamento de locações, reduzindo processos manuais e melhorando a organização das informações relacionadas aos imóveis e contratos.
 
 ---
 
-# 🤝 Contribuição
+# Contribuição
 
 Contribuições são bem-vindas!
 
@@ -165,12 +165,16 @@ git push origin minha-feature
 
 ---
 
-# 📄 Licença
+## Autor
 
-Este projeto está sob a licença MIT.
+**André Henrique Martins Marciano**
+
+LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
 
 ---
 
-# 👨‍💻 Desenvolvedor
+## Licença
 
-Desenvolvido por André Martins 🚀
+MIT License
+
+---
